@@ -2,4 +2,9 @@ Rafaga Alexandre
 
 Eu sou o Ráfaga, mineiro, morando em São Paulo há mais de 10 anos.
 
+<<<<<<< HEAD
 Oi, Ráfaga! Que bacana, muito prazer.
+=======
+Pergunta da marcia
+Também sou de sp! moro na zona leste. qual região voce mora?
+>>>>>>> e24ee3bbab4503b0c2f13d2880f702f47745cc89
