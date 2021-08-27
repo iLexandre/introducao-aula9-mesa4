@@ -8,3 +8,5 @@ Final de semana eu gosto muito de tocar violão, ukulele ou teclado
 
 */
 
+Pergunta - Rafaga 
+Você fica quietinha, mas entende tudo ne? 😊
