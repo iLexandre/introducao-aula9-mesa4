@@ -8,3 +8,5 @@ Final de semana eu gosto muito de tocar violão, ukulele ou teclado
 
 */
 
+Eu gosto de caminhar na beira do rio e sair com amigos.
+
